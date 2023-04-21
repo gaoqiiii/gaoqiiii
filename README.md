@@ -1,4 +1,4 @@
-<div style="align: center">
+<div align="center">
   <img style="width: 50px;height:50px;margin: 5px" src="https://raw.githubusercontent.com/gaoqiiii/gaoqiiii/main/assets/kirby.gif?raw=true" />
   <img style="width: 50px;height:50px;margin: 5px" src="https://raw.githubusercontent.com/gaoqiiii/gaoqiiii/main/assets/kirby.gif?raw=true" />
   <img style="width: 50px;height:50px;margin: 5px" src="https://raw.githubusercontent.com/gaoqiiii/gaoqiiii/main/assets/kirby.gif?raw=true" />
