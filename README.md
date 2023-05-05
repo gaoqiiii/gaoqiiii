@@ -7,7 +7,12 @@
   <img style="width: 50px;height:50px;margin: 5px" src="https://raw.githubusercontent.com/gaoqiiii/gaoqiiii/main/assets/kirby.gif?raw=true" />
 </div>
 
-<p>Welcome to my page! </br> I'm Cherry, Frontend developer, base ShenZhen.</p>
+<p>
+  Welcome to my page! </br> 
+  I'm Cherry🍒, Frontend developer, base ShenZhen. </br>
+  Wechat: gaoqiiii_ </br>
+  Email: gaoqi0303@163.com
+</p>
 
 
 
@@ -24,19 +29,3 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=gaoqiiii&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaoqiiii&layout=compact&theme=buefy&hide_border=true" alt="" /> |
 | ---- | ---- |
 
-
-
-<!--
-**gaoqiiii/gaoqiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
